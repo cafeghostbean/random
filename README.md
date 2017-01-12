@@ -1,5 +1,6 @@
-## Welcome to GitHub Pages
+## Repository test with theme
 
+This is only for testing purpose for any random activities that may come, you will find nothing of interest.
 You can use the [editor on GitHub](https://github.com/cafeghostbean/random/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
